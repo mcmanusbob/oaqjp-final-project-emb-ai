@@ -87,3 +87,4 @@ def emotion_detector(text_to_analyze):
         
     except Exception:
         return _mock_emotion_response(text_to_analyze)
+        
